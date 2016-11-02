@@ -39,7 +39,8 @@ description description description description description description descript
 description description description description description description description description description description description 
 description description description description description description description description description description description 
 description description description description description description description description description description description 
-description |id|user|salary|
+description 
+|id|user|salary|
 |1|donald|60000.0|
 |2|dewie|62000.0|
 |3|goofy|66000.0|
