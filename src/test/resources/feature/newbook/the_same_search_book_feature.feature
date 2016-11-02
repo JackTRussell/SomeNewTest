@@ -18,6 +18,7 @@ And we have this story in Jira
 And this also must be re-stored on GIT
 
 Examples: example table name
+description description description description description description description description description description description description description
 |id|user|salary|
 |1|donald|60000.0|
 |2|dewie|62000.0|
