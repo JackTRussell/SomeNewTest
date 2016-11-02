@@ -17,7 +17,7 @@ And this string must be pulled from Git
 And we have this story in Jira
 And this also must be re-stored on GIT
 
-Examples: example table name
+Examples: 
 |id|user|salary|
 |1|donald|60000.0|
 |2|dewie|62000.0|
